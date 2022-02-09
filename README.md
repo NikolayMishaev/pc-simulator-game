@@ -1,4 +1,4 @@
-# pc-simulator-game
+# PC-simulator-game
 ***
 
 ## Описание 
