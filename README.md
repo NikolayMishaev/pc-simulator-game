@@ -1,15 +1,16 @@
 # Игра «PC simulator» (2001)
 ***
 
-- видеообзор (в процессе разработки)
-
 ## Описание 
 - игра представляет собой популярный жанр 90-x, симулятор ПК, где нужно собрать свой ПК по комплектующим
 - код написан одним днем, в который и произошло мое первое знакомство с языком программирования QBasic как с языками программирования в целом
 - для запуска можно использовать D-Fend Reloaded + оригинальный QBasic
 
 ## Скриншоты
-![Симулятор ПК](https://github.com/NikolayMishaev/pc-simulator-game/raw/master/pc-image.jpg)
+![Симулятор ПК](https://github.com/NikolayMishaev/pc-simulator-game/raw/master/readme/01.jpg)
+![Симулятор ПК](https://github.com/NikolayMishaev/pc-simulator-game/raw/master/readme/02.jpg)
+![Симулятор ПК](https://github.com/NikolayMishaev/pc-simulator-game/raw/master/readme/03.jpg)
+![Симулятор ПК](https://github.com/NikolayMishaev/pc-simulator-game/raw/master/readme/04.jpg)
 
 ## История создания
  <details>
@@ -26,6 +27,8 @@
 - если игрок будет только копить деньги и не тратить, то его будет ждать неожиданный поворот (_лихие 90-е_) :)
 
 ## Оригинальный реадми из 2001 года
+
+![Симулятор ПК](https://github.com/NikolayMishaev/pc-simulator-game/raw/master/pc-image.jpg)
 
 		Эта игра - симулятор компьютера.
        Я (Колян) сделал её по мотивам игры Comp Man.
